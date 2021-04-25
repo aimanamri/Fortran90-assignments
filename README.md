@@ -13,7 +13,7 @@
   5. buat folder special utk fortran. Copy  mingw-w64.bat tadi tu then paste kat folder fortran.
 
 ## How to compile and excecute the code 
-  0. Tulis code tu dlm satu text file (Pls dont use MS Word). Make sure save the file and the extension must end with  ".f90". Nak syntax code tu lawa and senang baca , pkai text editor "Notepad++" .Download kat internet je
+  0. Tulis code tu dlm satu text file. Make sure save the file and the extension must end with  ".f90". Nak syntax code tu lawa and senang baca , pkai text editor "Notepad++" .Download kat internet je
   1. Double click mingw-w64 >  Black screen keluar > taip  gfortran test.f90   (test.f90 ni just contoh) 
   2. This will compile the program u wrote and create a.exe file kat folder fortran tu (same path) tapi jgn tutup lagi screen mingw-w64.bat
   3. Next line , taip a.exe
