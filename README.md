@@ -26,7 +26,7 @@
                       <output>          |
                         <executed filename>
   
-  #      gfortran test.f90 
+  ###     gfortran test.f90 
 
    
 ░█▀▀▀ ░█▀▀▀█ ░█▀▀█ ▀▀█▀▀ ░█▀▀█ ─█▀▀█ ░█▄─░█ ▄▀▀▄ █▀▀█ 
