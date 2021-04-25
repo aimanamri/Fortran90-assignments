@@ -21,7 +21,7 @@
 
 
 
-  ###     gfortran test.f90 -o test  
+         gfortran test.f90 -o test  
                            |    ^-------|
                       <output>          |
                         <executed filename>
